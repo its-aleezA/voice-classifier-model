@@ -88,6 +88,11 @@ For a deep dive into the methodology, including data balancing and the shift fro
 
 ---
 
+## 🙏 Acknowledgements
+The datasets used in this project were curated by [KAILI] on [Kaggle](https://www.kaggle.com/datasets/kailic/bts-lyrics).
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
