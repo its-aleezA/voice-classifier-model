@@ -75,10 +75,8 @@ jupyter notebook voice-classifier.ipynb
 ## 🔍 Further Reading
 
 For a deep dive into the methodology, including data balancing and the shift from Naive Bayes to SVM, see the full documentation:
-
-### [📄 Methodology & Model Tuning](https://www.google.com/search?q=docs/Model-Evolution.md)
-
-### [🎵 Dataset Insights](https://www.google.com/search?q=docs/BTS-Lyric-Analysis.md)
+- [📄 Methodology & Model Tuning](https://www.google.com/search?q=docs/Model-Evolution.md)
+- [🎵 Dataset Insights](https://www.google.com/search?q=docs/BTS-Lyric-Analysis.md)
 
 ---
 
