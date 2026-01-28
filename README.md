@@ -44,7 +44,7 @@ predict_voice_final(test_lyric)
 ### 3. Run the Full Analysis
 Clone the repo and run the Jupyter notebook to train the model on the provided CSV files:
 ```bash
-jupyter notebook BTS_Member_Classifier.ipynb
+jupyter notebook voice-classifier.ipynb
 ```
 
 ---
