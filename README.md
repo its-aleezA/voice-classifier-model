@@ -37,7 +37,8 @@ pip install pandas scikit-learn matplotlib seaborn
 ```
 ### 2. Basic Usage
 ```python
-# Import the prediction function from your notebookfrom bts_classifier import predict_voice_final# Input lyrics (solo or snippet)
+# Import the prediction function from your notebook from bts_classifier import predict_voice_final
+# Input lyrics (solo or snippet)
 test_lyric = "I'm a king, I'm a boss"# Get prediction and confidence breakdown
 predict_voice_final(test_lyric)
 ```
