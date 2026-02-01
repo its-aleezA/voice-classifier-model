@@ -88,7 +88,7 @@ For a deep dive into the methodology, including data balancing and the shift fro
 ---
 
 ## 🙏 Acknowledgements
-The datasets used in this project were curated by [KAILI] on [Kaggle](https://www.kaggle.com/datasets/kailic/bts-lyrics).
+The datasets used in this project were curated by [KAILI](https://www.kaggle.com/datasets/kailic) on [Kaggle](https://www.kaggle.com/datasets/kailic/bts-lyrics).
 
 ---
 
